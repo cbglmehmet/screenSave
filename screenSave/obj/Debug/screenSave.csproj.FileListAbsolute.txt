@@ -1,0 +1,13 @@
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\bin\Debug\screenSave.exe.config
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\bin\Debug\screenSave.exe
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\bin\Debug\screenSave.pdb
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\bin\Debug\AForge.Video.dll
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\obj\Debug\screenSave.csproj.AssemblyReference.cache
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\obj\Debug\screenSave.Form1.resources
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\obj\Debug\screenSave.Properties.Resources.resources
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\obj\Debug\screenSave.csproj.GenerateResource.cache
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\obj\Debug\screenSave.csproj.CoreCompileInputs.cache
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\obj\Debug\screenSave.csproj.CopyComplete
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\obj\Debug\screenSave.exe
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\obj\Debug\screenSave.pdb
+C:\Users\mcabaoglu\source\repos\screenSave\screenSave\bin\Debug\AForge.Video.FFMPEG.dll
